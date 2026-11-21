@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/tcars-demo/_next/static/chunks/093fsqggruozu.js"
+4:"/tcars-demo/_next/static/chunks/34pjzj4m09lew.js"
+5:"/tcars-demo/_next/static/chunks/15ss-1iyj4f11.js"
+6:I[6138,["$3","$4","$5"],"ClientPageRoot"]
+7:"/tcars-demo/_next/static/chunks/0q4o0y45a08ke.js"
+8:"/tcars-demo/_next/static/chunks/0zko8rhy5cnei.js"
+9:I[31713,["$3","$4","$5","$7","$8"],"default"]
+c:I[31749,["$3","$4","$5"],"OutletBoundary"]
+d:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[31749,["$3","$4","$5"],"$11"]
+13:"MetadataBoundary"
+14:I[31749,["$3","$4","$5"],"$13"]
+15:I[78847,["$3","$4","$5"],"IconMark"]
+10:X
+1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[["$","$L6",null,{"Component":"$9","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@a","$@b"]}}],[["$","script","script-0",{"src":"/tcars-demo/_next/static/chunks/0q4o0y45a08ke.js","async":true}],["$","script","script-1",{"src":"/tcars-demo/_next/static/chunks/0zko8rhy5cnei.js","async":true}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$10"}}]]
+0:{"t":{"t":{"s":"","h":20,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0d2a6b"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Tinashe Carsale Zimbabwe (TC) - Quality Cars For Every Journey"}],["$","meta","1",{"name":"description","content":"Buy, hire or drive-to-own quality cars in Harare. Spares & parts, 24/7 I-TOW emergency towing and nationwide support from Tinashe Carsale Zimbabwe."}],["$","meta","2",{"name":"application-name","content":"Tinashe Carsale Zimbabwe"}],["$","meta","3",{"name":"generator","content":"v0.app"}],["$","meta","4",{"name":"keywords","content":"cars for sale Harare,used cars Zimbabwe,car hire Harare,drive to own Zimbabwe,towing Harare,car spares Zimbabwe,Tinashe Carsale"}],["$","meta","5",{"name":"robots","content":"noindex, nofollow"}],["$","link","6",{"rel":"canonical","href":"http://localhost:3000/"}],["$","meta","7",{"property":"og:title","content":"Tinashe Carsale Zimbabwe (TC) - Quality Cars For Every Journey"}],["$","meta","8",{"property":"og:description","content":"Buy, hire or drive-to-own quality cars in Harare. Spares & parts, 24/7 I-TOW emergency towing and nationwide support from Tinashe Carsale Zimbabwe."}],["$","meta","9",{"property":"og:url","content":"http://localhost:3000/"}],["$","meta","10",{"property":"og:site_name","content":"Tinashe Carsale Zimbabwe"}],["$","meta","11",{"property":"og:locale","content":"en_ZW"}],["$","meta","12",{"property":"og:image","content":"http://localhost:3000/images/site/share.jpg"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Toyota Hilux GD6 at Tinashe Carsale Zimbabwe"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Tinashe Carsale Zimbabwe (TC)"}],["$","meta","19",{"name":"twitter:description","content":"Buy, hire or drive-to-own quality cars in Harare. Spares & parts, 24/7 I-TOW emergency towing and nationwide support from Tinashe Carsale Zimbabwe."}],["$","meta","20",{"name":"twitter:image","content":"http://localhost:3000/images/site/share.jpg"}],["$","link","21",{"rel":"icon","href":"/tcars-demo/favicon.ico","sizes":"any"}],["$","link","22",{"rel":"icon","href":"/tcars-demo/icon-192.png","type":"image/png","sizes":"192x192"}],["$","link","23",{"rel":"icon","href":"/tcars-demo/icon-512.png","type":"image/png","sizes":"512x512"}],["$","link","24",{"rel":"apple-touch-icon","href":"/tcars-demo/apple-icon.png","sizes":"180x180"}],["$","$L15","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$10"}},"a":"$@17","u":"$@18","b":"XDuDCbgVCKVoiNMWjYN0R"}
+a:{}
+b:"$1:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+e:null
+18:true
+10:300
+10:C
+17:0
+16:"$undefined"
+f:"$undefined"
